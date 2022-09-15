@@ -1,0 +1,3 @@
+portail.ini
+/logs/*
+!/logs/.gitkeep
