@@ -1,2 +1,2 @@
 # mon-projet-jour-2
-Forrmation
+Formation Jour 2
